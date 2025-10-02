@@ -6,18 +6,23 @@
 // Add the two numbers and store the result in a new variable called sum.
 // Print the result using console.log()..
 
-
+const num1 = 6;
+const num2 = 7;
+const sum = num1 + num2;
+console.log("The sum of " + num1 + " and " + num2 + " is: " + sum);
 
 // 2. Subtraction
 // Subtract num2 from num1 and store the result in a new variable called difference.
 // Print the result.
-
+difference = num1 - num2
+console.log(difference);
 
 // 3. Multiplication
 // Multiply num1 by num2 and store the result in a new variable called product.
 // Print the result.
 
-
+product = num1 * num2
+console.log(product)
 
 // String Operations
 
@@ -26,3 +31,7 @@
 // Concatenate (combine) the two strings using the + operator and store the result in a new variable called combinedString.
 // Print the result.
 
+str1 = "Hello"
+str2 = "Everyone"
+combinedString = str1 + "to " + str2 
+console.log(combinedString);

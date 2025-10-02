@@ -2,7 +2,7 @@
 
 // 1. Declare a variable named 'creatureName' and assign it a magical creature's name as a string..
 
-
+creautureName
 
 // 2. Declare a variable named 'creatureDescription' and describe its magical properties as a string.
 
